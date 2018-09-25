@@ -1,0 +1,16 @@
+[package]
+name = "yt_downloader"
+version = "0.1.0"
+authors = ["Elian Gutierrez <eliangu3600103@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/WebD01/yt-downloader"
+homepage = "https://github.com/WebD01/yt-downloader"
+description = "Download Youtube videos using the command line"
+
+[dependencies]
+clap = "2.32.0"
+colored = "1.6.1"
+reqwest = "0.9.1"
+json = "0.11.13"
+rafy = "0.2.1"
