@@ -1,6 +1,6 @@
 [package]
 name = "yt_downloader"
-version = "0.1.0"
+version = "1.0.0"
 authors = ["Elian Gutierrez <eliangu3600103@gmail.com>"]
 license = "MIT"
 readme = "README.md"
